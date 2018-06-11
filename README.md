@@ -1,0 +1,2 @@
+# MyNewRepository
+Testing git operations
